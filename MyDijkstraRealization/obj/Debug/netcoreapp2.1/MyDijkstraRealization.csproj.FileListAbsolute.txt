@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MyDijkstraRealization\MyDijkstraRealization\bin\Debug\netcoreapp2.1\MyDijkstraRealization.deps.json
+C:\Users\User\source\repos\MyDijkstraRealization\MyDijkstraRealization\bin\Debug\netcoreapp2.1\MyDijkstraRealization.runtimeconfig.json
+C:\Users\User\source\repos\MyDijkstraRealization\MyDijkstraRealization\bin\Debug\netcoreapp2.1\MyDijkstraRealization.runtimeconfig.dev.json
+C:\Users\User\source\repos\MyDijkstraRealization\MyDijkstraRealization\bin\Debug\netcoreapp2.1\MyDijkstraRealization.dll
+C:\Users\User\source\repos\MyDijkstraRealization\MyDijkstraRealization\bin\Debug\netcoreapp2.1\MyDijkstraRealization.pdb
+C:\Users\User\source\repos\MyDijkstraRealization\MyDijkstraRealization\obj\Debug\netcoreapp2.1\MyDijkstraRealization.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MyDijkstraRealization\MyDijkstraRealization\obj\Debug\netcoreapp2.1\MyDijkstraRealization.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyDijkstraRealization\MyDijkstraRealization\obj\Debug\netcoreapp2.1\MyDijkstraRealization.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyDijkstraRealization\MyDijkstraRealization\obj\Debug\netcoreapp2.1\MyDijkstraRealization.AssemblyInfo.cs
+C:\Users\User\source\repos\MyDijkstraRealization\MyDijkstraRealization\obj\Debug\netcoreapp2.1\MyDijkstraRealization.dll
+C:\Users\User\source\repos\MyDijkstraRealization\MyDijkstraRealization\obj\Debug\netcoreapp2.1\MyDijkstraRealization.pdb
